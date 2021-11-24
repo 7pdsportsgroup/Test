@@ -1,5 +1,14 @@
 ## 7 PD SPORTS CARNIVAL 2021
 
+Date Modified : 
+
+| Wing  | Format | Points |
+|-------|--------|---------|
+| A | gala | - |
+| B | jazz | - |
+| C | granny smith | - |
+| D | granny smith | - |
+| E | granny smith | - |
 
 ```markdown
 ### Points Table
