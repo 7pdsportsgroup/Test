@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 7 PD SPORTS CARNIVAL 2021
 
 You can use the [editor on GitHub](https://github.com/7pdsportsgroup/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
