@@ -11,7 +11,7 @@ Date Modified :
 | D | granny smith | - |
 | E | granny smith | - |
 
-```markdown
+
 ### Points Table
 
 # Header 1
@@ -27,4 +27,4 @@ Date Modified :
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
